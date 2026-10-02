@@ -29,6 +29,6 @@
 # circumference_real_pi = 2 * math.pi * r
 # print("Circumference is:", circumference_real_pi)
 
-# year = int(input("Enter your birth year: "))
-# age = 2024 - year
-# print("Your age is", age)
+ #year = int(input("Enter your birth year: "))
+ #age = 2024 - year
+ #print("Your age is", age)
